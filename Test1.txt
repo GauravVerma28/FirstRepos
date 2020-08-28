@@ -1,3 +1,7 @@
 Hello! Welcome to GitHub.
+<<<<<<< HEAD
 See the Changes made by Dev-2 from INDIA.
+=======
+See the Changes by Developer -1 in US.
+>>>>>>> 6c59f0a3bfc86e1f6635f430e4b418f672213ca7
 
